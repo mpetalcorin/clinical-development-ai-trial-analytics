@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Clinical Development AI and Trial Analytics"
+type: software
+authors:
+  - family-names: "Petalcorin"
+    given-names: "Mark Ihrwell R."
+year: 2026
+repository-code: "https://github.com/mpetalcorin/clinical-development-ai-trial-analytics"
+license: MIT
+keywords:
+  - clinical development
+  - SDTM
+  - ADaM
+  - pharmacokinetics
+  - survival analysis
+  - clinical artificial intelligence
