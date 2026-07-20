@@ -78,7 +78,7 @@ Running the notebook creates `clinical_trial_analytics_outputs/`, containing sim
 
 ## Author
 
-**Mark Ihrwell R. Petalcorin, PhD**  
+**Mark I.R. Petalcorin**  
 Molecular biology, biochemistry, translational oncology, clinical data science, machine learning, and biomedical AI.
 
 ## License
